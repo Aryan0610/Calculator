@@ -1,0 +1,3 @@
+# Calculator
+Website: [Link](https://cal-calculator-website.netlify.app)
+App: [Link](https://github.com/Aryan0610/Calculator/releases/download/v1.0/Calculator.apk)
