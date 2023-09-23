@@ -1,0 +1,21 @@
+:root {
+    --color1: '#232323';
+    --color2: '#AAAAAA';
+    --color3: '#323232';
+}
+
+.AppBg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1E1E1E;
+}
+
+.App {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

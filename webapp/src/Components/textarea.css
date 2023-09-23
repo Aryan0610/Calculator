@@ -1,0 +1,75 @@
+.TextArea {
+    display: flex;
+    justify-content: end;
+
+    align-items: center;
+
+    margin: 20px 10px;
+    padding: 10px 20px;
+
+    font-family: 'Poppins';
+    font-size: 42px;
+
+    border-radius: 20px;
+
+    color: #AAAAAA;
+}
+
+.TextArea2 {
+    display: flex;
+    justify-content: end;
+
+    margin: 20px 10px;
+    padding: 10px 20px;
+
+    font-size: 32px;
+    height: 40px;
+
+    color: #AAAAAA;
+}
+
+.multiplicationIcon {
+    background: url(../images/MultiplcationIcon.svg);
+    height: 42px;
+    width: 42px;
+    display: block;
+    font-size: 24px;
+    transform: scale(1.5);
+}
+
+.divisionIcon {
+    background: url(../images/DivisionIcon.svg);
+    height: 42px;
+    width: 42px;
+    display: block;
+    font-size: 24px;
+    transform: scale(1.5);
+    fill: #FFFFFF;
+}
+
+.additionIcon {
+    background: url(../images/AdditionIcon.svg);
+    height: 42px;
+    width: 42px;
+    display: block;
+    font-size: 24px;
+    transform: scale(1.5);
+    fill: #FFFFFF;
+}
+
+.subtractionIcon {
+    background: url(../images/SubtractionIcon.svg);
+    height: 42px;
+    width: 42px;
+    display: block;
+    font-size: 24px;
+    transform: scale(1.5);
+    fill: #FFFFFF;
+}
+
+@media screen and (max-width: 500px) {
+    .keyboardBtn {
+        width: 54px;
+        height: 54px;
+    }
+}

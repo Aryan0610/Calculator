@@ -1,0 +1,61 @@
+.Keyboard {
+    background-color: #232323;
+    padding: 20px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.keyboardBtn {
+    background: none;
+    outline: none;
+    border: none;
+
+    font-size: 22px;
+    font-family: 'Poppins';
+
+    width: 72px;
+    height: 72px;
+
+    margin: 10px;
+
+    border-radius: 10px;
+
+    background-color: #323232;
+    color: #DADADA;
+
+    cursor: pointer;
+
+    transition: 0.1s ease-in-out;
+}
+
+.KeyboardRow {
+    display: flex;
+}
+
+.clearIcon {
+    background-color: #454545;
+    color: #E76161;
+}
+
+.operatorIcon {
+    background-color: #454545;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.EqualIcon {
+    background-color: #FEA1A1;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.PlusOrMinus {
+    background-color: #323232;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

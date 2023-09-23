@@ -1,0 +1,14 @@
+.Backspace {
+    display: flex;
+    justify-content: end;
+
+    padding: 10px 20px;
+}
+
+.Backspace button {
+    background: none;
+    border: none;
+    outline: none;
+
+    cursor: pointer;
+}
